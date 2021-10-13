@@ -30,10 +30,10 @@ TLDR
 From Norheim, a village within Forngard Forest in North Eastern Brend; Friends with dwarf merchant named Rangrim; Left village to go on a quest for the gods; Brother, Hadving left 14 years ago for the same quest; Captured and sold to the soldiers at the mine; Been in the fighting pit for a long time.
 
 ## **Epilogue**
-![right|link=Einbjorn|thumb|500px|Einbjorn's appearance ](/images/Einbjorn-epilogue.png)
+<img src="/images/Einbjorn-epilogue.png" height="300" />
 
 After the events in Avernus, Einbjorn returned to a broken Norheim. The damage done by the corrupted shaman would take months to fully rebuild and years to fully recover. With much assistance from Eli, Rat, and his, now old, friend Rangrim, Einbjorn led the reconstruction effort and was eventually given the title of chief. His first decree was to end the practice of Langr Asraun and to open trade with the nearby towns. The world had forever changed after so many cities were dragged to hell and it was Einbjorn's opinion that Norheim would be unable to continue as an isolated village.
 
-Stories spread quickly of the winged bugbear chieftan and people flocked to the village from far and wide to see the spectacle that was Einbjorn. The influx of visitor brought a time of prosperity previously unknown to Norheim. In short order it became a bustling trade town known far and wide for their exquisite leathers and furs.
+Stories spread quickly of the winged bugbear chieftan and people flocked to the village from far and wide to see the spectacle that was Einbjorn. The influx of visitors brought a time of prosperity previously unknown to Norheim. In short order it became a bustling trade town known far and wide for their exquisite leathers and furs.
 
-There were several across the years with a desire to test their mettle against Einbjorn, but his experience surviving in literal hell proved to much for any challenger. Eventually these duels subsided and Einbjorn was able to retire to a life of peace until the end of his days.
+There were several across the years with a desire to test their mettle against Einbjorn, but his experience surviving in literal hell proved too much for any challenger. Eventually these duels subsided and Einbjorn was able to retire to a life of peace. After many years and a life well spent, Einbjorn finally passed in his sleep, with his favorite sleeping cap placed firmly on his head.
